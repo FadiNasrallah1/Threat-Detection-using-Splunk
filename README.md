@@ -6,15 +6,15 @@ The lab includes multiple stages of the attack lifecycle, including brute force 
 
 # Tools & Technologies
 
-Splunk Enterprise 9.4.3
-Splunk Universal Forwarder 9.4.0
-Kali Linux
-Windows Server 2022
-Netdiscover
-Namap
-Hydra
-xfreerdp
-Windows Firewall
+- Splunk Enterprise 9.4.3
+- Splunk Universal Forwarder 9.4.0
+- Kali Linux
+- Windows Server 2022
+- Netdiscover
+- Namap
+- Hydra
+- xfreerdp
+- Windows Firewall
 
 # Architecture
 
