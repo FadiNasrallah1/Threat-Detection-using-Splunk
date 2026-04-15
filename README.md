@@ -27,11 +27,12 @@ The lab includes multiple stages of the attack lifecycle, including brute force 
 
 Performed network reconnaissance to discover live hosts and identify open ports on the target machine.
 
-Discover live hosts on the subnet
+# Discover live hosts on the subnet
 netdiscover -r 10.0.2.0/24
 
-Scan target for open ports and services
+# Scan target for open ports and services
 nmap -sV -p 3389 <TARGET_IP>
+
 Goal: Confirm target IP and verify RDP port 3389 is open before launching the attack.
 
 2. RDP Brute Force — Hydra
