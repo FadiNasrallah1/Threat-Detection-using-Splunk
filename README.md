@@ -4,6 +4,12 @@ Designed and implemented a hands-on cybersecurity lab to simulate real-world att
 
 The lab includes multiple stages of the attack lifecycle, including brute force attempts, unauthorized remote access, and post-exploitation activities. It demonstrates both Red Team (offensive security) and Blue Team (defensive monitoring) techniques, showcasing the ability to build, attack, detect, and defend within a controlled environment.
 
+## Project Presentation
+
+[View Slideshow](https://docs.google.com/presentation/d/1LjdieB9Yyt7OIYYlxTGCALNGnXVWld1dYYuKjPCw0Sw/edit?usp=sharing)
+
+*(Google Slides - April 2026)*
+
 # Tools & Technologies
 
 - Splunk Enterprise 9.4.3
@@ -110,6 +116,15 @@ splunk-siem-lab/
 - Created real-time Splunk dashboards and automated threshold alerts
 - Practiced both Red Team offensive techniques and Blue Team detection/response
 - Developed hands-on experience with EventID correlation (4625 → 4624 pattern)
+
+
+## Quick Start
+See `Lab-Rebuild-Guide.md` for complete setup instructions.
+
+**Demo Video:** [Link will go here]
+
+
+**Project completed April 2026**  
 
 ---
 ⚠️ Disclaimer
