@@ -63,6 +63,7 @@ New-NetFirewallRule -DisplayName "Block Attacker" `
   -Action Block
 # Repository Structure
 
+...
 splunk-siem-lab/
 ├── docs/
 │   ├── architecture.png
@@ -78,7 +79,7 @@ splunk-siem-lab/
 │   └── firewall_rules.md
 ├── LICENSE
 └── README.md
-
+...
 
 
 ⚠️ Disclaimer
