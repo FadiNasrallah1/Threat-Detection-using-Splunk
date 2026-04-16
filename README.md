@@ -24,7 +24,7 @@ The lab includes multiple stages of the attack lifecycle, including brute force 
 
 # Architecture
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7f1dd6fc-7832-43c1-9981-f9cf552d1a86" />
+<img width="1176" height="572" alt="Screenshot 2026-04-16 at 12 30 11 PM" src="https://github.com/user-attachments/assets/6154b708-b72c-457b-be49-26356044ab5e" />
 
 
 ## Attacks Simulated
