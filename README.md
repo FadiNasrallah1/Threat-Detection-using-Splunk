@@ -1,4 +1,4 @@
-# Threat-Detection-using-Splunk
+# Threat-Detection-using-Splunk SIEM
 In this project, we focus on how cyberattacks can be simulated in a controlled lab environment and detected using Splunk. The goal is to better understand how attackers operate and how security teams can identify and respond to these threats in real time.
 Designed and implemented a hands-on cybersecurity lab to simulate real-world attack scenarios and detect malicious activities using Splunk SIEM in real time.
 
