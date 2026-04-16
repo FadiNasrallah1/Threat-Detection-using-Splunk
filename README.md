@@ -70,7 +70,7 @@ xfreerdp /u:Administrator /p:<CRACKED_PASSWORD> /v:<TARGET_IP>
 ---
 
 
-## 🔵 Team Defense
+## 🔵 Blue Team Defense
 
 - **Block attacking IP** via Windows Firewall inbound rule
 - **Enable account lockout** after 5 failed login attempts
